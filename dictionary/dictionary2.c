@@ -5,9 +5,9 @@
 #include <termio.h>
 #include <ctype.h>
 #include <time.h>
-#include "../../../lib/bt/inc/btree.h"
-#include "../../../lib/bt/inc/bt.h"
-#include "../../../lib/bt/inc/bc.h"
+#include "../lib/bt/inc/btree.h"
+#include "../lib/bt/inc/bt.h"
+#include "../lib/bt/inc/bc.h"
 #include "../soundEx/soundex.h"
 
 # define SIZE_WORD 150 
